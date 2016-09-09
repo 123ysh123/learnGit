@@ -10,5 +10,6 @@ public class App
     {
         System.out.println( "Hello World!" );
         System.out.println("hello china");
+        System.out.println("hello beijing");
     }
 }
