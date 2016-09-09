@@ -12,5 +12,6 @@ public class App
         System.out.println("hello china");
         System.out.println("hello beijing");
         System.out.println("hello tonghzou");
+        System.out.println("hello jiuxianwang");
     }
 }
